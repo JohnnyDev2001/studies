@@ -1,6 +1,6 @@
 ### Pong Game
 
-<p style="align:center"><img src="CAP.PNG" width="420px" height="360px"></p>
+<p style="align:center"><img src="./CAP.PNG" width="420px" height="360px"></p>
 
 <dr>
 
